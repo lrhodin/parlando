@@ -1,0 +1,11 @@
+[submodule "ParlandoPlugin"]
+	path = ParlandoPlugin
+	url = https://github.com/lrhodin/parlando-plugin.git
+	branch = master
+[submodule "nih-plug"]
+	path = nih-plug
+	url = https://github.com/lrhodin/nih-plug.git
+	branch = feature/track-info-support
+[submodule "vst3-sys"]
+	path = vst3-sys
+	url = https://github.com/lrhodin/vst3-sys.git
